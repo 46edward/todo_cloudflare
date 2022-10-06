@@ -1,0 +1,8 @@
+name = "todos-app"
+type = "webpack"
+account_id = ""
+workers_dev = true
+
+[[kv-namespaces]]
+binding = "TODOS_APP"
+id = "da2dedfcfa71458da2dc1b3235eeb3db"
